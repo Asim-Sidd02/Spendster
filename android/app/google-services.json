@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570272459044",
+    "project_id": "spendster-75987",
+    "storage_bucket": "spendster-75987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570272459044:android:edb8934370f623c1df2bb1",
+        "android_client_info": {
+          "package_name": "com.example.spendster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrwsfYx1uUxtBcU-E0TtBYT4hkXhy7XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

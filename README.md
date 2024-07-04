@@ -2,7 +2,9 @@
 
 ## _A comprehensive expense tracking app built with Flutter to manage personal and business finances._
 
-![App Preview](https://github.com/Asim-Sidd02/Spendster/blob/main/preview.gif)
+<img src="https://github.com/Asim-Sidd02/Spendster/blob/main/preview.gif" alt="App Preview" width="400" height="800">
+
+
 
 ## Table of Contents
 

@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAMb2FEEXEh7hkZM4tZUsTG44Axl0H0QzQ',
-    appId: '1:570272459044:web:13af6890d2a1856adf2bb1',
-    messagingSenderId: '570272459044',
-    projectId: 'spendster-75987',
-    authDomain: 'spendster-75987.firebaseapp.com',
-    storageBucket: 'spendster-75987.appspot.com',
-    measurementId: 'G-N6BFERJCYB',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDhrwsfYx1uUxtBcU-E0TtBYT4hkXhy7XA',
-    appId: '1:570272459044:android:edb8934370f623c1df2bb1',
-    messagingSenderId: '570272459044',
-    projectId: 'spendster-75987',
-    storageBucket: 'spendster-75987.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBnGMCxu6ofMHy1ydAAFmTgrYE2uPC96io',
-    appId: '1:570272459044:ios:67298384f47e8004df2bb1',
-    messagingSenderId: '570272459044',
-    projectId: 'spendster-75987',
-    storageBucket: 'spendster-75987.appspot.com',
-    iosBundleId: 'com.example.spendster',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBnGMCxu6ofMHy1ydAAFmTgrYE2uPC96io',
-    appId: '1:570272459044:ios:a3d06e0bced28b66df2bb1',
-    messagingSenderId: '570272459044',
-    projectId: 'spendster-75987',
-    storageBucket: 'spendster-75987.appspot.com',
-    iosBundleId: 'com.example.spendster.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }

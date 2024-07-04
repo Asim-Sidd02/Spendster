@@ -92,5 +92,5 @@ These dependencies are specified in the **pubspec.yaml** file.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the  **BSD-2-Clause license**. See the [LICENSE](LICENSE) file for details.
 

@@ -45,7 +45,7 @@ Before running the application, ensure you have the following installed:
 Clone the repository:
 
 ```sh
-git clone https://github.com/YourUsername/Spendster.git
+git clone https://github.com/Asim-Sidd02/Spendster.git
 cd Spendster
 ```
 Install the dependencies using flutter:

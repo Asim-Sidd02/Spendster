@@ -6,7 +6,6 @@ import 'package:provider/provider.dart';
 import 'signup_screen.dart';
 import '../services/firestore_service.dart';
 
-
 class LoginScreen extends StatelessWidget {
   LoginScreen({super.key});
 
@@ -137,9 +136,10 @@ class LoginScreen extends StatelessWidget {
                 // Don't have an account? Sign up Text
                 TextButton(
                   onPressed: () {
+
                     Navigator.push(
                       context,
-                      MaterialPageRoute(builder: (context) => SignUpScreen()),
+                      MaterialPageRoute(builder: (context) => const SignUpScreen()),
                     );
                   },
                   child: const Text(

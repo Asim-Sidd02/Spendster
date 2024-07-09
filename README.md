@@ -45,7 +45,7 @@ Before running the application, ensure you have the following installed:
 Clone the repository:
 
 ```sh
-git clone https://github.com/YourUsername/Spendster.git
+git clone https://github.com/Asim-Sidd02/Spendster.git
 cd Spendster
 ```
 Install the dependencies using flutter:
@@ -92,5 +92,5 @@ These dependencies are specified in the **pubspec.yaml** file.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the  **BSD-2-Clause license**. See the [LICENSE](LICENSE) file for details.
 
